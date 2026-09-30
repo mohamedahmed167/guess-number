@@ -47,7 +47,17 @@ else if(guess!==number)
 
     }
     }
+//8gdgdgd
 
+
+
+
+
+
+
+
+
+ // 
 
     // when the gusse is too low
     // else if(guess<number)
