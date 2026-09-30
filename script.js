@@ -57,7 +57,7 @@ else if(guess!==number)
 
 
 
- // 
+ // eeee
 
     // when the gusse is too low
     // else if(guess<number)
