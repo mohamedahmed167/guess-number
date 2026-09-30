@@ -47,7 +47,7 @@ else if(guess!==number)
 
     }
     }
-//8gdgdgd
+//8gdgdgdeeee
 
 
 
